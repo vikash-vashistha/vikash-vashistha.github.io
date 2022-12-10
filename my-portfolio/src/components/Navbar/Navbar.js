@@ -213,7 +213,7 @@ function Navbar() {
                       e.preventDefault();
 
                       window.open(
-                        "https://drive.google.com/file/d/1hXLJgCmtuPFin0lwvzACE6PqAB4Eb3Bu/view",
+                        "https://drive.google.com/file/d/113yws_1wRuYKFRgNdFlbh5yzw25tXBBr/view",
                         "_blank"
                       );
                     }}
