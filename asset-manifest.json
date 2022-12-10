@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.079c461a.chunk.css",
-    "main.js": "/static/js/main.343f8beb.chunk.js",
-    "main.js.map": "/static/js/main.343f8beb.chunk.js.map",
+    "main.js": "/static/js/main.1f967b3a.chunk.js",
+    "main.js.map": "/static/js/main.1f967b3a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32d2d171.js",
     "runtime-main.js.map": "/static/js/runtime-main.32d2d171.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -76,6 +76,7 @@
     "static/media/fastify.6b82b37a.svg": "/static/media/fastify.6b82b37a.svg",
     "static/media/figma.cc8e1116.svg": "/static/media/figma.cc8e1116.svg",
     "static/media/firebase.1aa395c8.svg": "/static/media/firebase.1aa395c8.svg",
+    "static/media/fitness.dc9002f9.png": "/static/media/fitness.dc9002f9.png",
     "static/media/five.3fc9b49e.svg": "/static/media/five.3fc9b49e.svg",
     "static/media/flutter.a87a000d.svg": "/static/media/flutter.a87a000d.svg",
     "static/media/four.bd70304d.svg": "/static/media/four.bd70304d.svg",
@@ -98,6 +99,7 @@
     "static/media/javascript.f84ec710.svg": "/static/media/javascript.f84ec710.svg",
     "static/media/julia.2f794baf.svg": "/static/media/julia.2f794baf.svg",
     "static/media/kotlin.bf3c189f.svg": "/static/media/kotlin.bf3c189f.svg",
+    "static/media/land.7953ce9a.png": "/static/media/land.7953ce9a.png",
     "static/media/lightroom.424c8312.svg": "/static/media/lightroom.424c8312.svg",
     "static/media/markdown.6fca45ee.svg": "/static/media/markdown.6fca45ee.svg",
     "static/media/materialui.d7f5c38f.svg": "/static/media/materialui.d7f5c38f.svg",
@@ -161,6 +163,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.eb5c1e6a.chunk.js",
     "static/css/main.079c461a.chunk.css",
-    "static/js/main.343f8beb.chunk.js"
+    "static/js/main.1f967b3a.chunk.js"
   ]
 }
