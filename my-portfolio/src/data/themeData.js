@@ -19,7 +19,7 @@ import {
 } from "../theme/theme";
 
 export const themeData = {
-  theme: yellowThemeLight,
+  theme: redThemeDark,
 };
 
 // Choose theme from above

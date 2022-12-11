@@ -28,13 +28,13 @@ function Main() {
       <Navbar />
       <Landing />
       <About />
-      {/* <Education /> */}
+      <Education />
       <Skills />
-      {/* <Experience /> */}
+      <Experience />
       <Projects />
 
-      {/* <Achievement />
-            <Services /> */}
+      <Achievement />
+      {/* <Services /> */}
       {/* <Testimonials /> */}
       {/* <Blog /> */}
       <Contacts />
