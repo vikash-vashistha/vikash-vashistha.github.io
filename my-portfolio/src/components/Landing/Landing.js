@@ -7,7 +7,7 @@ import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
 import { socialsData } from "../../data/socialsData";
-import proPic from "./img/pic1.jpg";
+import proPic from "./img/pic2.png";
 
 import {
   FaInstagram,

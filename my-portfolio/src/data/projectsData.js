@@ -17,7 +17,7 @@ export const projectsData = [
     id: 1,
     projectName: "Vikash Land App",
     projectDesc:
-      "I created the entire project. I have created the customer, seller, and admin sides of the website. On this website, customers can purchase plots, become partners in a land, request to become sellers, and chat with the landowners. seller can register new land. Administrators can control all fields.",
+      "I created the entire project by focusing more on the functionality than the UI. I have created the customer, seller, and admin sides of the website. On this website, customers can purchase plots, become partners in a land, request to become sellers, and chat with the landowners. seller can register new land. Administrators can control all fields. Please watch this video ---------->  https://www.youtube.com/watch?v=VE63Bd_K5ik",
     tags: ["React", "Node", "Mongodb", "Express", "Chakra UI"],
     code: "https://github.com/vikash-vashistha/vikash-vashistha-land-app",
     demo: "https://vikash-land-app.netlify.app/",
