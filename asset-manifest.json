@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.079c461a.chunk.css",
-    "main.js": "/static/js/main.ff959d28.chunk.js",
-    "main.js.map": "/static/js/main.ff959d28.chunk.js.map",
+    "main.js": "/static/js/main.bd5503b7.chunk.js",
+    "main.js.map": "/static/js/main.bd5503b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32d2d171.js",
     "runtime-main.js.map": "/static/js/runtime-main.32d2d171.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -119,7 +119,7 @@
     "static/media/orangeTheme-girl.af6ec93a.svg": "/static/media/orangeTheme-girl.af6ec93a.svg",
     "static/media/photoshop.6576d308.svg": "/static/media/photoshop.6576d308.svg",
     "static/media/php.808faf65.svg": "/static/media/php.808faf65.svg",
-    "static/media/pic1.16bc45db.jpg": "/static/media/pic1.16bc45db.jpg",
+    "static/media/pic2.b358a74b.png": "/static/media/pic2.b358a74b.png",
     "static/media/picsart.e849dc91.svg": "/static/media/picsart.e849dc91.svg",
     "static/media/pinkTheme-boy.dee5f707.svg": "/static/media/pinkTheme-boy.dee5f707.svg",
     "static/media/pinkTheme-girl.154b10ae.svg": "/static/media/pinkTheme-girl.154b10ae.svg",
@@ -163,6 +163,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.eb5c1e6a.chunk.js",
     "static/css/main.079c461a.chunk.css",
-    "static/js/main.ff959d28.chunk.js"
+    "static/js/main.bd5503b7.chunk.js"
   ]
 }
