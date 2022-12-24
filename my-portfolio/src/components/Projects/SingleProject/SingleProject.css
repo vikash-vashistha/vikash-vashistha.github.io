@@ -11,7 +11,7 @@
   position: relative;
   cursor: pointer;
   overflow: hidden;
-  border: 2px solid yellow;
+  /* border: 2px solid yellow; */
 }
 
 .projectContent {
