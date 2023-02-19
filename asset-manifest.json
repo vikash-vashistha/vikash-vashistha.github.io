@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6f4edead.chunk.css",
-    "main.js": "/static/js/main.1149c5c2.chunk.js",
-    "main.js.map": "/static/js/main.1149c5c2.chunk.js.map",
+    "main.js": "/static/js/main.d322d137.chunk.js",
+    "main.js.map": "/static/js/main.d322d137.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32d2d171.js",
     "runtime-main.js.map": "/static/js/runtime-main.32d2d171.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -35,6 +35,7 @@
     "static/media/c.e580cb17.svg": "/static/media/c.e580cb17.svg",
     "static/media/canva.f1bf26da.svg": "/static/media/canva.f1bf26da.svg",
     "static/media/capacitorjs.8fb886a5.svg": "/static/media/capacitorjs.8fb886a5.svg",
+    "static/media/chat.1ace8478.png": "/static/media/chat.1ace8478.png",
     "static/media/coffeescript.51d09441.svg": "/static/media/coffeescript.51d09441.svg",
     "static/media/contactsBlack.a7066a03.svg": "/static/media/contactsBlack.a7066a03.svg",
     "static/media/contactsBlue.08a9dafd.svg": "/static/media/contactsBlue.08a9dafd.svg",
@@ -163,6 +164,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.eb5c1e6a.chunk.js",
     "static/css/main.6f4edead.chunk.css",
-    "static/js/main.1149c5c2.chunk.js"
+    "static/js/main.d322d137.chunk.js"
   ]
 }
