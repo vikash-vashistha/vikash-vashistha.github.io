@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1945f43c.css",
-    "main.js": "/static/js/main.f354d8e1.js",
+    "main.js": "/static/js/main.a36b3e70.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/urban.png": "/static/media/urban.b528b0770257239f4d49.png",
     "static/media/health.png": "/static/media/health.0e0ae59e109ed0a88b87.png",
     "static/media/fitness.png": "/static/media/fitness.83c29f355e6a488a5311.png",
     "static/media/land.png": "/static/media/land.22703c3a8ac7310179b2.png",
-    "static/media/chat.png": "/static/media/chat.1ace847820769bc82db2.png",
+    "static/media/chat.jpg": "/static/media/chat.f7f58c9e780c69fc917c.jpg",
     "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
     "static/media/mongodb.png": "/static/media/mongodb.4f7af09e6354d51beec8.png",
     "static/media/Weather.jpeg": "/static/media/Weather.1ce5c95ba998eddb3b5e.jpeg",
@@ -23,11 +23,11 @@
     "static/media/mern.png": "/static/media/mern.b58d81727b47466a7cda.png",
     "index.html": "/index.html",
     "main.1945f43c.css.map": "/static/css/main.1945f43c.css.map",
-    "main.f354d8e1.js.map": "/static/js/main.f354d8e1.js.map",
+    "main.a36b3e70.js.map": "/static/js/main.a36b3e70.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1945f43c.css",
-    "static/js/main.f354d8e1.js"
+    "static/js/main.a36b3e70.js"
   ]
 }
